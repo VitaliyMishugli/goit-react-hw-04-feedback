@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-     Feedback - 04(hooks)
+     Feedback - 04
     </div>
   );
 };
